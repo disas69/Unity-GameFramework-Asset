@@ -1,6 +1,6 @@
 # Unity-Game-Framework
 
-This is a framework that is used for rapid game development and prototyping using Unity. It includes some common design patterns, algorithms and techniques such as Objects Pool, State Machine, Events System, UI System, Localization and more.
+This is a framework that I use for rapid game development and prototyping in Unity. It includes some common design patterns, algorithms and techniques such as Objects Pool, State Machine, Events System, UI System, Localization and more.
 
 ### Pool
 
