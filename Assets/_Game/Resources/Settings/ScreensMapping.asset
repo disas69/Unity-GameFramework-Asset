@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605925733f125174b847034c6498078f, type: 3}
+  m_Name: ScreensMapping
+  m_EditorClassIdentifier: 
+  ScreenSettings:
+  - Screen: {fileID: 2112606619666947199, guid: 6c91976b5516d084293f7929a74b42e4,
+      type: 3}
+    IsCached: 1
+  - Screen: {fileID: 8004319779062319336, guid: 6dc0aa46cbf997443a9b5f0b8441a362,
+      type: 3}
+    IsCached: 1
+  - Screen: {fileID: 8806050810714503033, guid: 070aadb7bd9db9e45ba3be0edc77ec25,
+      type: 3}
+    IsCached: 1
+  - Screen: {fileID: 7237115703047803670, guid: 4d04253d1d27e98478749129cc4b47bb,
+      type: 3}
+    IsCached: 1
+  PopupSettings: []
